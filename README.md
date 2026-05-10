@@ -7,8 +7,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop logo"  />
-  <img width="12" />
 </div>
 
 ###
