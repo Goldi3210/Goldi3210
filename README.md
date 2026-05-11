@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center"> Hey 👋What's Up?</h1>
 
 ###
 
@@ -23,14 +23,18 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Goldi3210"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /></a>
-  <a href="https://github.com/Goldi3210"><img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=darkhub&row=1&column=6" height="150" alt="trophy graph" /></a>
+  <div align="center"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" /><img width="20" /><img src="https://github-stats-card-generator.vercel.app/api/svg?username=Goldi3210&type=languages&theme=dark&chart=bars" height="150" /></div>
+  
+  <br>
+  <br>
+  
+  <a href="https://github.com/Goldi3210"><img src="https://count.getloli.com/@:Goldi3210?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" height="45" alt="view graph" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Goldi3210/Goldi3210/refs/heads/main/acrade-contributions.svg" width="250">
+  <img src="https://raw.githubusercontent.com/Goldi3210/Goldi3210/refs/heads/main/acrade-contributions.svg" width="1200">
 </div>
 
 ###
