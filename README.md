@@ -35,13 +35,7 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Goldi3210/Goldi3210/refs/heads/main/acrade-contributions.svg" width="1200">
 </div>
-
-<br>
-<br>
-<br>
