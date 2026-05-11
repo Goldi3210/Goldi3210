@@ -1,29 +1,30 @@
-<h1 align="center"> Hey 👋What's Up?</h1>
+<h1 align="center">  Hey 👋What's Up?</h1>
+
+###
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
+</p>
+
+###
+
+<p align="center">
+  <a href="https://www.youtube.com/@Goldi3210">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube logo" />
+  </a>
+
+  <a href="https://github.com/Goldi3210">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </a>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@Goldi3210"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Youtube logo" /></a>
-  <a href="https://github.com/Goldi3210"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
-</div>
-
-###
-
-<div align="center">
-  <div align="center"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" /><img width="20" /><img src="https://github-stats-card-generator.vercel.app/api/svg?username=Goldi3210&type=languages&theme=dark&chart=bars" height="150" /></div>
+  <a href="https://github.com/Goldi3210"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /></a>
   
   <br>
   <br>
