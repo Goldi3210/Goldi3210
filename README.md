@@ -17,20 +17,20 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@Goldi3210"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Youtube logo" /></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo"  />
+  <a href="https://github.com/Goldi3210"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Goldi3210&locale=pl&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <a href="https://github.com/Goldi3210"><img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=discord&row=1&column=6&no-bg=true" height="150" alt="trophy graph" /></a>
+  <a href="https://github.com/Goldi3210"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /></a>
+  <a href="https://github.com/Goldi3210"><img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=darkhub&row=1&column=6" height="150" alt="trophy graph" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src=" " width="250">
+  <img src="https://raw.githubusercontent.com/Goldi3210/Goldi3210/refs/heads/main/acrade-contributions.svg" width="250">
 </div>
 
 ###
