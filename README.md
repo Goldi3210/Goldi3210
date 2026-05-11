@@ -10,7 +10,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" />
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://www.youtube.com/@goldi3210?sub_confirmation=1">
