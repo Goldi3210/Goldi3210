@@ -3,12 +3,10 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/Goldi3210">
-    <img src="https://skillicons.dev/icons?i=java" height="60" />
-    <img src="https://skillicons.dev/icons?i=py" height="60" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
 </p>
 
 ###
