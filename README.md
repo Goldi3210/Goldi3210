@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Goldi3210&locale=pl&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=discord&row=1&column=6&no-bg=true" height="150" alt="trophy graph"  />
+  <a href="https://github.com/Goldi3210"><img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=discord&row=1&column=6&no-bg=true" height="150" alt="trophy graph" /></a>
 </div>
 
 ###
