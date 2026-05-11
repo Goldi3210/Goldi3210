@@ -23,7 +23,6 @@
 
 <br>
 <br>
-<br>
 
 <div align="center">
   <a href="https://github.com/Goldi3210"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /></a>
