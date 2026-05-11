@@ -1,9 +1,6 @@
 <h1 align="center">  Hey 👋What's Up?</h1>
 
 
-<br>
-<br>
-<br>
 
 
 <p align="center">
@@ -13,8 +10,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" />
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center">
