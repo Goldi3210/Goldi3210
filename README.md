@@ -29,7 +29,7 @@
   <br>
   <br>
   
-  <a href="https://github.com/Goldi3210"><img src="https://count.getloli.com/@:Goldi3210?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" height="45" alt="view graph" /></a>
+  <a href="https://github.com/Goldi3210"><img src="https://count.getloli.com/@:Goldi3210?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" height="45" alt="> GitHub <" /></a>
 </div>
 
 ###
