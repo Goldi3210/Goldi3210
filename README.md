@@ -4,10 +4,12 @@
 
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=idea" height="80" />
   <img src="https://skillicons.dev/icons?i=java" height="80" />
   <img src="https://skillicons.dev/icons?i=py" height="80" />
   <img src="https://skillicons.dev/icons?i=html" height="80" />
   <img src="https://skillicons.dev/icons?i=css" height="80" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" />
 </p>
 
 <p align="center">
