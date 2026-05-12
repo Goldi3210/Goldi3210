@@ -1,22 +1,22 @@
-<h1 align="center">  Hey 👋What's Up?</h1>
+<h1 align="center">  Hey 👋 What's Up?</h1>
 
 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea" height="80" />
-  <img src="https://skillicons.dev/icons?i=java" height="80" />
-  <img src="https://skillicons.dev/icons?i=py" height="80" />
-  <img src="https://skillicons.dev/icons?i=html" height="80" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" />
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=idea" height="80" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=java" height="80" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=py" height="80" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=html" height="80" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=css" height="80" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://skillicons.dev/icons?i=js" height="80" /></a>
 </p>
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Goldi3210&theme=dark&hide_border=true&background=FFFFFF00">
+  <a href="https://github.com/Goldi3210"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Goldi3210&theme=dark&hide_border=true&background=FFFFFF00&locale=pl" /></a>
   <br>
   <br>
-  <a href="https://tipply.pl/@G1GA-Shoty"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://tipply.pl/@G1GA-Shoty"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Goldi3210" /></a>
 </p>
 
 <p align="center">
