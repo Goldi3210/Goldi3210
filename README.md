@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tipply.pl/@G1GA-Shoty"> <img align="center" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://www.youtube.com/@Goldi3210"> <img align="center" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://github.com/Goldi3210"> <img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
 </p>
 
