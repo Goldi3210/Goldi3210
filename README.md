@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
+  <img src="https://skillicons.dev/icons?i=java" height="80" />
+  <img src="https://skillicons.dev/icons?i=py" height="80" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" />
 </p>
 
 
@@ -25,12 +25,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Goldi3210"><img src="https://streak-stats.demolab.com/?user=Goldi3210&theme=dark&locale=pl&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /></a>
+  <img src="https://streak-stats.demolab.com?user=Goldi3210&locale=en&mode=daily&theme=hacker&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Goldi3210&theme=matrix&row=1&column=6" height="230" alt="trophy graph"  />
+  
   
   <br>
   <br>
   
-  <a href="https://github.com/Goldi3210"><img src="https://count.getloli.com/@:Goldi3210?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" height="45" alt="> GitHub <" /></a>
+
 </div>
 
 <br>
