@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Goldi3210"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goldi3210&theme=dark&hide_border=true&locale=pl" /></a>
+  <a href="https://github.com/Goldi3210"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goldi3210&theme=dark&hide_border=true&background=0d1117&locale=pl" /></a>
   <br>
   <br>
   <a href="https://tipply.pl/@G1GA-Shoty"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Goldi3210" /></a>
